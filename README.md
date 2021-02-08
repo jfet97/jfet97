@@ -47,6 +47,6 @@ const me = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jfet97&repo=vue-use-switch-map&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="vue-use-switch-map" />
 </a>
 
-# Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
