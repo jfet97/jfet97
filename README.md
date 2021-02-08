@@ -12,7 +12,7 @@ const me = {
   middle_name: "Simone",
   surname: "Costa",
   nickname: "jfet97",
-  description: "Computer Scientist wannabe at UniPisa, JavaScript developer for the rest of the time.",
+  description: "Computer Scientist wannabe at UniPisa, JavaScript developer for the rest of the time",
   age: 23,
   code: [JavaScript, TypeScript, Vue, Haskell],
   occupation: "Frontend developer"
