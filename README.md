@@ -22,6 +22,8 @@ const me = {
 
 ## &#x1f4c8; GitHub Stats
 
+![](https://gitwar.herokuapp.com/badge?username=jfet97)
+
 <a href="https://github.com/jfet97/jfet97">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfet97&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Jfet97's GitHub Stats" />
 </a>
