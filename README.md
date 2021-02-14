@@ -55,3 +55,7 @@ const me = {
 - [JavaScript Iterators and Generators: Synchronous Generators](https://dev.to/jfet97/javascript-iterators-and-generators-synchronous-generators-3ai4)
 - [JavaScript Iterators and Generators: Synchronous Iterators](https://dev.to/jfet97/javascript-iterators-and-generators-synchronous-iterators-141d)
 <!-- BLOG-POST-LIST:END -->
+
+## 👥 My Communities
+
+- Vue.js Italia: https://t.me/vue_ita
