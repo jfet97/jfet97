@@ -7,15 +7,17 @@
 
 ```js
 
-const me = {
+const myself = {
   first_name: "Andrea",
   middle_name: "Simone",
   surname: "Costa",
-  nickname: "jfet97",
-  description: "Computer Scientist wannabe at UniPisa, JavaScript developer for the rest of the time",
   age: 23,
-  code: [JavaScript, TypeScript, Vue, Haskell],
-  occupation: "Frontend developer"
+  country: "Italy"
+  nickname: "jfet97",
+  interests: ["functional programming", "computer science", "category theory"],
+  occupation: "Software Craftsman @ ExTelos",
+  code: ["javascript", "typescript", "vue", "haskell"],
+  email: "andrysimo1997@gmail.com",
 }
 
 ```
