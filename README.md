@@ -51,11 +51,11 @@ const myself = {
 
 ## 📕 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloning JavaScript objects using graph theory](https://dev.to/jfet97/cloning-javascript-objects-using-graph-theory-35p)
 - [Do Vue 3 refs admit a monad instance?](https://dev.to/jfet97/do-vue-3-refs-admit-a-monad-instance-5fan)
 - [JavaScript Iterators and Generators: Asynchronous Generators](https://dev.to/jfet97/javascript-iterators-and-generators-asynchronous-generators-2n4e)
 - [JavaScript Iterators and Generators: Asynchronous Iterators](https://dev.to/jfet97/javascript-iterators-and-generators-asynchronous-iterators-28b8)
 - [JavaScript Iterators and Generators: Synchronous Generators](https://dev.to/jfet97/javascript-iterators-and-generators-synchronous-generators-3ai4)
-- [JavaScript Iterators and Generators: Synchronous Iterators](https://dev.to/jfet97/javascript-iterators-and-generators-synchronous-iterators-141d)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👥 My Communities
