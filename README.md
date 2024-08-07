@@ -13,3 +13,13 @@ I also have a strong passion for sharing my knowledge through articles, videos, 
 ## Who cares about jfet97?
 
 My grandma 👵🏻❤️
+
+## My last 7 articles
+
+1. [What the heck are reverse mapped types?](https://andreasimonecosta.dev/posts/what-the-heck-are-reverse-mapped-types/) on 2024-08-02
+2. [Parsing raw data with existential types](https://andreasimonecosta.dev/posts/parsing-raw-data-with-existential-types/) on 2024-07-17
+3. [What type parameters really are](https://andreasimonecosta.dev/posts/what-type-parameters-really-are/) on 2024-07-09
+4. [How to express correlations](https://andreasimonecosta.dev/posts/how-to-express-correlations/) on 2024-01-15
+5. [What the heck is a homomorphic mapped type?](https://andreasimonecosta.dev/posts/what-the-heck-is-a-homomorphic-mapped-type/) on 2023-12-28
+6. [Cloning JavaScript objects with graph theory](https://andreasimonecosta.dev/posts/cloning-javascript-objects-with-graph-theory/) on 2021-04-30
+7. [Do Vue 3 refs admit a monad instance?](https://andreasimonecosta.dev/posts/do-vue-3-refs-admit-a-monad-instance/) on 2020-07-30
